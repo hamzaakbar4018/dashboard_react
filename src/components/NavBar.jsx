@@ -17,7 +17,7 @@ const NavBar = () => {
                     <h1 className='text-xl font-bold'>Dashboard</h1>
                 </div>
                 {/* Pic Section */}
-                <div className="pic flex justify-center items-center">
+                <div className="pic mr-4 flex justify-center items-center">
                     <h1 className='text-xl font-mono font-bold'>John</h1>
                 </div>
             </div>
