@@ -37,7 +37,7 @@ const DashBoard = () => {
             ))}
         </div>
         <div className="btn flex mb-6">
-            <button className='mt-2 p-3 w-1/2 mr-1 font-bold border-black border bg-blue-400 rounded-lg'>
+            <button className='mt-2 text-white p-3 w-1/2 mr-1 font-bold border-black border bg-blue-400 rounded-lg'>
                 Save Budget
             </button>
             <button className='mt-2 p-3 w-1/2 font-bold border-black border rounded-lg'>
